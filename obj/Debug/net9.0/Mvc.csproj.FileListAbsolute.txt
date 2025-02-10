@@ -1,0 +1,14 @@
+D:\Kodehode\Development\C#\model-view-controller\Mvc\bin\Debug\net9.0\Mvc.exe
+D:\Kodehode\Development\C#\model-view-controller\Mvc\bin\Debug\net9.0\Mvc.deps.json
+D:\Kodehode\Development\C#\model-view-controller\Mvc\bin\Debug\net9.0\Mvc.runtimeconfig.json
+D:\Kodehode\Development\C#\model-view-controller\Mvc\bin\Debug\net9.0\Mvc.dll
+D:\Kodehode\Development\C#\model-view-controller\Mvc\bin\Debug\net9.0\Mvc.pdb
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\Mvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\Mvc.AssemblyInfoInputs.cache
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\Mvc.AssemblyInfo.cs
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\Mvc.csproj.CoreCompileInputs.cache
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\Mvc.dll
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\refint\Mvc.dll
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\Mvc.pdb
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\Mvc.genruntimeconfig.cache
+D:\Kodehode\Development\C#\model-view-controller\Mvc\obj\Debug\net9.0\ref\Mvc.dll
